@@ -6,6 +6,9 @@
 .right{
 	text-align:right;
 }
+.left {
+	text-align:left;
+}
 html {
 	background-color: white;
 }
@@ -18,9 +21,7 @@ body {
     background-color: #fffded;
 }
 table {
-	border-top:5px;
-	border-botom:5px;
-	border-color:800000;
+	border-top:5px solid #800000;
 }
 a:focus, a:hover {
 	font-style: italic;
