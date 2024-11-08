@@ -15,6 +15,12 @@
 .border{
 	border-top:3px solid #800000;
 }
+.border2{
+	border-bottom:3px solid #800000;
+}
+.border3{
+	border-top:3px solid #800000;
+}
 html {
 	background-color: white;
 }
