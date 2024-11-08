@@ -20,7 +20,8 @@ body {
 table {
 	border-top:5px;
 	border-botom:5px;
-	border-color:800000
+	border-color:800000;
+}
 a:focus, a:hover {
 	font-style: italic;
 }
