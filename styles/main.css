@@ -6,8 +6,11 @@
 .right{
 	text-align:right;
 }
-.left {
+.left{
 	text-align:left;
+}
+.middle{
+	text-align:center;
 }
 html {
 	background-color: white;
