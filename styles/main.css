@@ -12,6 +12,9 @@
 .middle{
 	text-align:center;
 }
+.border{
+	border-top:3px solid #800000;
+}
 html {
 	background-color: white;
 }
