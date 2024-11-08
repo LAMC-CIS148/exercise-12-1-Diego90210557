@@ -24,7 +24,8 @@ body {
     background-color: #fffded;
 }
 table {
-	border-top:5px solid #800000;
+	border-top:3px solid #800000;
+	border-bottom:3px solid #800000;
 }
 a:focus, a:hover {
 	font-style: italic;
